@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1046427231464",
+    "firebase_url": "https://jupenet-788a7.firebaseio.com",
+    "project_id": "jupenet-788a7",
+    "storage_bucket": "jupenet-788a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046427231464:android:8e21e7921968935e45555d",
+        "android_client_info": {
+          "package_name": "com.jupiter.jupenet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046427231464-ookeuo0pegd48cqr8fgmk94jkut8laak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jupiter.jupenet",
+            "certificate_hash": "5a3f9ff21aa9593ec78ce0f39de732dea43db2c8"
+          }
+        },
+        {
+          "client_id": "1046427231464-rfn33t2306c4m8ceqvvoivjc0dvfm1tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jupiter.jupenet",
+            "certificate_hash": "ac171f9d031c68c9b252f112ea5eb9dd69450d70"
+          }
+        },
+        {
+          "client_id": "1046427231464-egget0reh81q4slc4aqtk0ql5hq7tehl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRqT9PC_OaFv5pTPeFzUtFwPAayHz8qSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046427231464-egget0reh81q4slc4aqtk0ql5hq7tehl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
